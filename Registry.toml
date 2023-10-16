@@ -1,0 +1,6 @@
+name = "LoopyPackages"
+uuid = "e8388bfb-7a11-4d0a-9c30-b8a00c61de9d"
+repo = "https://github.com/cadojo/LoopyPackages/"
+description = "Packages I am developing, which are not yet ready for the General registry."
+
+[packages]
